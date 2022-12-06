@@ -1,0 +1,1 @@
+I Will update this from your suggestiongs the reason why i made this is cause i see alot of people getting scammed for very simple tools like this wich is just annoying

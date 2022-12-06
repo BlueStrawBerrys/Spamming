@@ -1,0 +1,201 @@
+megabor.php
+Micro_Webshell.php
+mima_abcd.jpg
+mini.php
+mmm.php
+mod_joomla_shell.zip
+mof提权带回显带清楚命令版本.php
+moon_1php.php
+MoroccanSpamersMa-EditioNByGhOsT-encoded.php
+Moroccan Spamers Ma-EditioN By GhOsT.php
+Moroccan_Spamers_Ma-EditioN_By_GhOsT.php
+Moroccan_Spamers.php
+MSF_README
+msf_webacoo_module.rb
+mssql.asp
+mssql.aspx
+MSSQL控制程序.asp
+mycode12.cfm
+myshell-encoded.php
+myshell.php
+MyShell.php
+mysql.aspx
+Mysql Database.jsp
+Mysql interface v1.0.php
+Mysql_interface_v1.0.php
+MYSQL Manager -Asp.net Silic Group Hacker Army专用版本.aspx
+mysql_tool.php
+Mysql udf by M4ster.php
+MySQL_Web_Interface.php
+MySQL Web Interface Version 0.8.php
+MySQL Web Shell.php
+mysql脱库.php
+navicat_tunnel.php
+NCC-Shell-encoded.php
+NCC-Shell.php
+NCC Shell v1.0.0.php
+NetworkFileManagerPHP.php
+NGH-encoded.php
+NGH.php
+ngx_http_pwnginx.c
+nobody-uploader.php
+Non-alphanumeric.php
+nshell-encoded.php
+nshell.php
+nShell v1.0.php
+nsT View.php
+NTDaddy  v1.9.asp
+NTDaddy v1.9.php
+NTDaddy_v1.9.php
+ntunnel_mysql.php
+obfuscated-punknopass.php
+one1.jsp
+one.jsp
+one.war
+oo.jpg
+openfire-test_plugin.zip
+Oracle Database.jsp
+oracle.jsp
+oracle.txt
+pack-0dc52c0081f0a5e15ac36dd3b67b08096466add8.idx
+pack-0dc52c0081f0a5e15ac36dd3b67b08096466add8.pack
+pack-6a5fbf3093c3c63aa794c842cf9da81dc956d2cd.idx
+pack-6a5fbf3093c3c63aa794c842cf9da81dc956d2cd.pack
+pack-9663d2056a711a277a7baac04d882d23f6efb993.idx
+pack-9663d2056a711a277a7baac04d882d23f6efb993.pack
+packed-refs
+pas.php
+Password Hasher for PHP Shell 2.1.php
+paxmac.jspx
+PcAnywhere提权 Bin版本.asp
+perlcmd.cgi
+perl-reverse-shell.pl
+Perl Web Shell by RST-GHC.pl
+PHANTASMA-encoded.php
+PHANTASMA.php
+php-backdoor-encoded.php
+php-backdoor.php
+Php Backdoor v 1.0 by ^Jerem.php
+php-findsock-shell.php
+php-include-w-shell.php
+phpinfo.php
+pHpINJ-encoded.php
+pHpINJ.php
+PHPJackal v1.9.php
+php MySQL Database Backup Script.php
+phppng.png
+PHPRemoteView.php
+php-reverse-shell.php
+phpshell17.php
+PhpShell 2.0.php
+PHP-Shell-Detector-master.zip
+PHPShell-encoded.php
+PHP Shell.php
+PHP_Shell.php
+PhpSpy.php
+PhpSpy Ver 2006.php
+phpwebbackup.php
+PHP Web Shell by oTTo.php
+php-web-shell.php
+php-webshells.txt
+pHp一句话扫描脚本程序.php
+PHP小马 - ExpDoor.com.php
+PHP 搜索可读可写目录脚本.php
+PHP整站打包程序-By DoDo.php
+PHP检测文件夹权限.php
+php版iisspy.php
+php读取iis.php
+PHVayv-encoded.php
+PH Vayv.php
+PH_Vayv.php
+PHVayv.php
+Phyton Shell.py
+ping.c
+PinoyLULZSecPrivateShell2017.php
+pnbak.css
+pnbak.js
+PostgreSQL数据库操纵.php
+post-update.sample
+pps-v1.0.pl
+pps-v3.0.pl
+pps-v3.5.pl
+pps-v4.0.pl
+pre-applypatch.sample
+pre-commit.sample
+Predator-encoded.php
+Predator.php
+pre-merge-commit.sample
+prepare-commit-msg.sample
+pre-push.sample
+pre-rebase.sample
+pre-receive.sample
+print.png
+Private x0rg Web Hosting Bypass.php
+punkholic.php
+punk-nopass.php
+pwnginx
+pwnginx.c
+pwnginx.h
+pwnginx-master.zip
+pwnshell - an interactive jsp shell.jsp
+pws.php
+pyspy.py
+qsd-backdoor.php
+qsd-php-backdoor.php
+r00ts小组过防火墙马.asp
+r00ts无FSO组建大马.asp
+r57.biz Dq99Shell.php
+r57_iFX.php
+r57_kartal.php
+r57_Mohajer22.php
+r57.php
+r57shell127.php
+r57shell.php
+r57shell v.1.42 - Edited By KingDefacer.php
+radhat.asp
+rcpexp.pl
+README
+readme.md
+readme.MD
+Readme.md
+README.md
+readme.txt
+Readme.txt
+RedHat Hacker.asp
+RedHat Hacker.asp明文版.asp
+reGeorg-master.zip
+reGeorgSocksProxy.py
+Remote Explorer.asp
+remot shell.pl
+requirements.txt
+response_packet_from_icmpsh_slave_containing_output_of_command_whoami.png
+reverseshell-poc.php
+revsshclient.py
+revsshserver.py
+RHTOOLS 1.5 BETA(PVT).asp
+RHTOOLS 1.5 BETA(PVT) Edited By KingDefacer.asp
+robot.php
+robots.php
+rootshell.php
+Rootshell.v.1.0-encoded.php
+Rootshell.v.1.0.php
+ru24_post_sh.php
+rules
+running_icmpsh_master_on_attacker_machine.png
+running_icmpsh_slave_on_target.png
+run.sh
+s72_Shell.php
+s72 Shell v1.0 Codinf by Cr@zy_King.php
+s72 Shell v1.1 Coding.php
+s72_Shell_v1.1_Coding.php
+safe0ver.php
+Safe0ver_Shell.php
+Safe0verShell-SafeModBypassByEvilc0der-encoded.php
+Safe0ver Shell -Safe Mod Bypass By Evilc0der.php
+Safe mode breaker.php
+Safe_Mode_Bypass.php
+Safe_ModeBypassPHP4.4.2andPHP5.1.2-encoded.php
+Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.php
+Safe_Mode_Bypass_PHP_4.4.2_and_PHP_5.1.2.php
+scanner.php
+sctp_reverse.py.txt
